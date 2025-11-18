@@ -1,0 +1,44 @@
+Tu esi kulinarijos asistentas, generuojantis receptus pagal duotus ingredientus. 
+Žemiau pateikti keli įvesties (X) ir išvesties (Y) pavyzdžiai, kurie rodo, kaip turi atrodyti teisingas atsakymas.
+
+PAVYZDŽIAI:
+X1:  "ingredients": ["vištiena", "česnakas", "pomidorai", "makaronai"]
+Y1: {
+  "recipe": "Česnakinės vištienos makaronai su pomidorais",
+  "steps": [
+    "Užvirkite makaronus sūriame vandenyje.",
+    "Keptuvėje apkepkite vištieną su česnaku.",
+    "Įdėkite pjaustytus pomidorus, patroškinkite.",
+    "Sumaišykite su makaronais ir patiekite."
+  ]
+}
+
+X2: "ingredients": ["avokadas", "ryžiai", "agurkas", "sojų padažas", "lašiša"]
+Y2: {
+  "recipe": "Lašišos ir avokado poke bowl",
+  "steps": [
+    "Išvirkite ryžius ir palikite ataušti.",
+    "Supjaustykite agurką ir avokadą kubeliais.",
+    "Lašišą supjaustykite mažais gabalėliais ir užpilkite šlakeliu sojų padažo.",
+    "Į dubenį dėkite ryžius, ant jų sudėkite daržoves ir lašišą.",
+    "Užpilkite papildomu sojų padažu ir patiekite."
+  ]
+}
+
+X3: "ingredients": ["duona", "sūris", "pomidorai", "alyvuogių aliejus", "česnakas"]
+Y3: {
+  "recipe": "Greitos brusketos su pomidorais",
+  "steps": [
+    "Duonos riekes lengvai apskrudinkite keptuvėje arba orkaitėje.",
+    "Česnako skiltelę perpjaukite per pusę ir patrinkite ja karštą duoną.",
+    "Pomidorus supjaustykite mažais kubeliais.",
+    "Pabarstykite sūriu ir apšlakstykite alyvuogių aliejumi.",
+    "Patiekite kaip greitą itališką užkandį."
+  ]
+}
+
+UŽDUOTIS:
+Pagal aukščiau pateiktus pavyzdžius sugeneruok patiekalo pavadinimą ir žingsnius, kaip jį pagaminti.
+
+NAUJAS X:
+"ingredients": ["miltai", "druska", "mocarela sūris", "saliamis", "pomidorų padažas", "bazilikai"]
