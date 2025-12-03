@@ -1,8 +1,8 @@
-# BarboraAI 🛒🤖
+# BarboraAI
 
 Make-shift „Barboros“ kopija su integruotu AI receptų generatoriumi (Google Gemini).
 
-## 🚀 Kaip pasileisti
+## Kaip pasileisti
 
 1. **Instaliuokite bibliotekas:**
    ```bash
