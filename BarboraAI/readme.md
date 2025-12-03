@@ -7,11 +7,12 @@ Make-shift „Barboros“ kopija su integruotu AI receptų generatoriumi (Google
 1. **Instaliuokite bibliotekas:**
    ```bash
    npm install
-Paleiskite projektą:
-code
-Bash
-npx vite
-Atsidarykite naršyklėje:
-Eikite į local host
-Nustatymai
-Norint naudoti AI funkcijas (receptų kūrimą), puslapyje paspauskite „API Raktas“ mygtuką ir įveskite savo Google Gemini API Key.
+2. **Paleiskite projektą:**
+   ```bash
+   npx vite
+3. **Atsidarykite naršyklėje:**
+   ```bash
+   Eikite į local host
+4. **Nustatymai:**
+   ```bash
+   Norint naudoti AI funkcijas (receptų kūrimą), puslapyje paspauskite „API Raktas“ mygtuką ir įveskite savo Google Gemini API Key.
